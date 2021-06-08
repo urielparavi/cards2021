@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "607eab7e6da66640144b8e65"
+  },
+  "createdAt": {
+    "$date": "2021-04-20T10:20:36.670Z"
+  },
+  "bizName": "Hacker u",
+  "bizDescription": "High tech college",
+  "bizAddress": "shoam 5 ramatgan",
+  "bizPhone": "99999",
+  "user_id": "607e73881f75122640f05a0f",
+  "__v": 0,
+  "bizImage": "https://media.licdn.com/dms/image/C561BAQEXK9p-DnltoQ/company-background_10000/0?e=2159024400&v=beta&t=74OM3BBNsdv8foqWPgYFJVhOQRL_Ap6yRQz1-Ty6cbw",
+  "bizNumber": 123456
+},{
+  "_id": {
+    "$oid": "607eb0d66e30531810b48014"
+  },
+  "createdAt": {
+    "$date": "2021-04-20T10:45:28.663Z"
+  },
+  "bizName": "Trump silver tower",
+  "bizDescription": "Tower from fake silver",
+  "bizAddress": "New york somewhere",
+  "bizPhone": "99999",
+  "user_id": "607e73881f75122640f05a0f",
+  "bizNumber": 72458,
+  "__v": 0,
+  "bizImage": "https://images.pexels.com/photos/2362002/pexels-photo-2362002.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+},{
+  "_id": {
+    "$oid": "607eb8bf0931002e08af30e0"
+  },
+  "createdAt": {
+    "$date": "2021-04-20T11:10:58.269Z"
+  },
+  "bizName": "Obama gold villa",
+  "bizDescription": "Tower from fake silver",
+  "bizAddress": "New york somewhere",
+  "bizPhone": "99999",
+  "user_id": "607e73881f75122640f05a0f",
+  "bizNumber": 698728,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607ec21309f7b6459cd95da6"
+  },
+  "createdAt": {
+    "$date": "2021-04-20T11:58:32.499Z"
+  },
+  "bizName": "Trump tower 2",
+  "bizDescription": "Tower from fake gold",
+  "bizAddress": "New york somewhere",
+  "bizPhone": "99999",
+  "user_id": "607eb6f70931002e08af30df",
+  "bizNumber": 789062,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607ec21709f7b6459cd95da7"
+  },
+  "createdAt": {
+    "$date": "2021-04-20T11:58:32.499Z"
+  },
+  "bizName": "Trump tower 6",
+  "bizDescription": "Tower from fake gold",
+  "bizAddress": "New york somewhere",
+  "bizPhone": "99999",
+  "user_id": "607eb6f70931002e08af30df",
+  "bizNumber": 187656,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607ec21b09f7b6459cd95da8"
+  },
+  "createdAt": {
+    "$date": "2021-04-20T11:58:32.499Z"
+  },
+  "bizName": "Trump tower 8",
+  "bizDescription": "Tower from fake gold",
+  "bizAddress": "New york somewhere",
+  "bizPhone": "99999",
+  "user_id": "607eb6f70931002e08af30df",
+  "bizNumber": 92196,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607ec2bf09f7b6459cd95da9"
+  },
+  "createdAt": {
+    "$date": "2021-04-20T11:58:32.499Z"
+  },
+  "bizName": "Trump tower 999",
+  "bizDescription": "Tower from fake gold",
+  "bizAddress": "New york somewhere",
+  "bizPhone": "99999",
+  "user_id": "607eb6f70931002e08af30df",
+  "bizNumber": 132512,
+  "__v": 0,
+  "bizImage": "https://images.pexels.com/photos/1622505/pexels-photo-1622505.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+},{
+  "_id": {
+    "$oid": "607ec32209f7b6459cd95daa"
+  },
+  "createdAt": {
+    "$date": "2021-04-20T11:58:32.499Z"
+  },
+  "bizName": "Empire state",
+  "bizDescription": "Tower in new york",
+  "bizAddress": "New york somewhere",
+  "bizPhone": "99999",
+  "user_id": "607eb6f70931002e08af30df",
+  "bizNumber": 21060,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "607ec33c09f7b6459cd95dab"
+  },
+  "createdAt": {
+    "$date": "2021-04-20T11:58:32.499Z"
+  },
+  "bizName": "Pizza koko",
+  "bizDescription": "The best pizza store ever",
+  "bizAddress": "New york somewhere",
+  "bizPhone": "99999",
+  "user_id": "607eb6f70931002e08af30df",
+  "bizNumber": 624873,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608513a2be1de93fe0002308"
+  },
+  "createdAt": {
+    "$date": "2021-04-25T06:13:56.890Z"
+  },
+  "bizName": "koko apple",
+  "bizDescription": "the best apple 2222",
+  "bizAddress": "eilat beach next to monkeys",
+  "bizPhone": "999999",
+  "user_id": "607e73881f75122640f05a0f",
+  "bizNumber": 486441,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "608513e8be1de93fe000230b"
+  },
+  "createdAt": {
+    "$date": "2021-04-25T06:13:56.890Z"
+  },
+  "bizName": "koko apple 3333",
+  "bizDescription": "the best apple",
+  "bizAddress": "eilat beach next to monkeys",
+  "bizPhone": "999999",
+  "user_id": "607e73881f75122640f05a0f",
+  "bizNumber": 589154,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b3554a676eb10e10d5708c"
+  },
+  "createdAt": {
+    "$date": "2021-05-30T09:05:12.168Z"
+  },
+  "bizName": "Clinton tower 2",
+  "bizDescription": "Tower from fake bronze",
+  "bizAddress": "Boston somewhere",
+  "bizPhone": "99999",
+  "user_id": "60b34baafcceda1fe8353622",
+  "bizNumber": 712669,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60b357359b78df40f0420ed5"
+  },
+  "createdAt": {
+    "$date": "2021-05-30T09:13:21.766Z"
+  },
+  "bizName": "Clinton tower 2",
+  "bizDescription": "Tower from fake bronze",
+  "bizAddress": "Boston somewhere",
+  "bizPhone": "99999",
+  "user_id": "60b34baafcceda1fe8353622",
+  "bizNumber": 506161,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bc8864adf4dd2f1881f301"
+  },
+  "createdAt": {
+    "$date": "2021-06-06T06:10:43.910Z"
+  },
+  "bizName": "cakes shop222",
+  "bizDescription": "The house of the rich !",
+  "bizAddress": "ami and tami",
+  "bizPhone": "777777777",
+  "bizImage": "",
+  "user_id": "607e73881f75122640f05a0f",
+  "bizNumber": 652124,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60bc89bcadf4dd2f1881f302"
+  },
+  "createdAt": {
+    "$date": "2021-06-06T06:10:43.910Z"
+  },
+  "bizName": "f13 shop",
+  "bizDescription": "F16 of alien ",
+  "bizAddress": "area 51",
+  "bizPhone": "9999999999",
+  "bizImage": "https://images.pexels.com/photos/35019/jets-air-show-aerial-demonstration-military.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+  "user_id": "607e73881f75122640f05a0f",
+  "bizNumber": 875822,
+  "__v": 0
+}]
